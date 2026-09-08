@@ -11,8 +11,7 @@ Codex任务守护器是一款Windows桌面工具，实时监控Codex任务状态
 ## 📚 更新记录
 
 <details open>
-<summary><strong>🔹 v1.0.0</strong> · 2026-09-08 <span style="color: #2d8cf0; font-weight: bold;">最新</span></summary>
-
+<summary><strong>🔹 v1.0.0</strong> · 2026-09-08 <img src="https://img.shields.io/badge/最新-2d8cf0" style="vertical-align:middle;"></summary>
 <br>
 <strong>✨ 新增功能</strong>
 <ul>
