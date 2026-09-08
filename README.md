@@ -9,10 +9,14 @@ Codex任务守护器是一款Windows桌面工具，实时监控Codex任务状态
 
 
 ## 📚 更新记录
+
 <details open>
-<summary><strong>🔹 v1.0.0</strong> · 2026-09-08 <code style="background:#2d8cf0;color:white;padding:0 6px;">最新</code></summary>
+<summary><strong>🔹 v1.0.0</strong> · 2026-09-08 <span style="color: #2d8cf0; font-weight: bold;">最新</span></summary>
+
 <br>
-**✨ 新增功能**
-- 定时中断：支持设定本机守护时间，到时自动中断任务。
-- 连续失败保护：连续恢复失败 5 次后自动停止，防止死循环。
+<strong>✨ 新增功能</strong>
+<ul>
+  <li>定时中断：支持设定本机守护时间，到时自动中断任务。</li>
+  <li>连续失败保护：连续恢复失败 5 次后自动停止，防止死循环。</li>
+</ul>
 </details>
